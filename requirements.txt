@@ -1,5 +1,4 @@
-
-django
+werkzeug
+flask
 gunicorn
-django-heroku
 requests
