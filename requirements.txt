@@ -1,4 +1,8 @@
-werkzeug
+
 flask
+jinja2
 gunicorn
 requests
+bokeh
+simplejson
+datetime
